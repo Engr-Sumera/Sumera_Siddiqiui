@@ -1,0 +1,6 @@
+{
+  "name": "Patient Vital Sign Anomaly Detector",
+  "description": "AI-driven continuous vital sign monitoring, real-time physiological anomaly detection, noise filtering, contextual thresholding, and clinical alerting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
